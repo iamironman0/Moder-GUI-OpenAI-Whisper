@@ -9,6 +9,8 @@
 * Models: Tiny, Base, Small, Medium, Large
 * Languages: Arabic, English
 * Task: Transcribe, Translate
+* Save result to a txt file
+* Change appearnce mode
 
 ## Setup
 
