@@ -5,6 +5,16 @@
 > ## Preview
 ![preview](https://user-images.githubusercontent.com/63475761/224495737-d7dd2398-b732-4751-bd4f-60e5c5fbefc1.png)
 
+## Avaliable Models
+* Tiny, Base, Small, Medium, Large
+
+## Avaliable Languages
+* Arabic, English
+
+## Task
+* Transcribe 
+* Translate
+
 ## Setup
 
 ### Requirements
