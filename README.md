@@ -1,6 +1,6 @@
 # **Audio Transcriber With OpenAI Wishper**
 	
-### Simple GUI App Audio Transcriber With OpenAI Wishper Using Python And Customtkinter
+## Simple gui app that transcribe audio files with OpenAI Wishper using python and customtkinter
 
 > ## Preview
 ![preview](https://user-images.githubusercontent.com/63475761/224495737-d7dd2398-b732-4751-bd4f-60e5c5fbefc1.png)
