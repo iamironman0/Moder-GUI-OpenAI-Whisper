@@ -28,8 +28,16 @@ Simple gui app that transcribe audio files with OpenAI Wishper using python and 
 ```
 pip install -r requirements.txt
 ```
+on mac and linux
+```
+pip3 install -r requirements.txt
+```
+
 2. Run the file
 
 ```
 python main.py 
 ```
+on mac and linux
+```
+python3 main.py
