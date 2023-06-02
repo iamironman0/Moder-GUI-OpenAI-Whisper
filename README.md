@@ -19,7 +19,7 @@ This is a simple GUI application that transcribes audio files using OpenAI Whisp
 * Torch with Cuda
 * Nvidia GPU
 * ffmpeg
-* PyQt5 
+* customtkinter 
 
 > For more information please visit OpenAI Wishper github: https://github.com/openai/whisper
 
